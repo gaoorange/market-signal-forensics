@@ -1,0 +1,42 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Agent / tooling workspaces
+.claude/
+.codex/
+.cursor/
+.agents/
+*.log
+
+# Python (validation scripts)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+
+# Local scratch — 本地草稿与审查产出，不入库
+scratch/
+tmp/
+out/
+reports/
+*.local.md
+*.local.csv
+
+# 真实审查产物可能含个人持仓与非公开材料，默认不提交
+audits/
+evidence-ledger-*.csv
+!templates/evidence-ledger.csv
