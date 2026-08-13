@@ -125,7 +125,7 @@ market-signal-forensics/
 **Claude Code / Claude Desktop（个人 skill）**
 
 ```bash
-git clone https://github.com/leizhenfacai/market-signal-forensics.git
+git clone https://github.com/gaoorange/market-signal-forensics.git
 # macOS / Linux
 cp -r market-signal-forensics ~/.claude/skills/
 # Windows PowerShell
