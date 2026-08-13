@@ -1,6 +1,11 @@
-# 市场信号与信息操纵审查
+# 信息真假、传播动机与价格行为
 
 英文名：Market Signal Forensics
+
+> **不判涨跌，只查三样：这话谁说的、谁受益、价格认不认。**
+
+名字说的是它**查什么**（三个维度对应阶段 1–3、阶段 4、阶段 5），不是它**替你判什么**——
+结论最高只到「高度可疑但不能定性操纵」，**不出真假判决**。
 
 [![Skill](https://img.shields.io/badge/Agent%20Skill-Market%20Signal%20Forensics-1f2937?style=for-the-badge)](SKILL.md)
 ![Language](https://img.shields.io/badge/Language-中文-ef4444?style=for-the-badge)
